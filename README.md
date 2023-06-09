@@ -2,9 +2,13 @@
 A typing speed test app made with Tkinter
 
 The user can choose between 3 modes (total seconds to compelete the test) and then they're taken to the main window where they can give as many tests as they want and get these outputs:
+
 Raw - total words typed in the given time, no matter right or wrong.
+
 WPM - correct words per minute.
+
 Accuracy - accuracy in typing correct words.
+
 Time - test time.
 
 ![1-interface](https://github.com/batgit39/Day85-Typing-Speed-Test-App/assets/86790253/031066f1-8e91-433c-bd26-641aedc5d6fe)
